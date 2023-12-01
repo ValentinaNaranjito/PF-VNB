@@ -1,0 +1,13 @@
+.tarjetas {
+    display: flex;
+    background-color: brown;
+    
+}
+.tarjeta{
+    display: flex;
+    flex-direction: row;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  width: 20%;
+  }

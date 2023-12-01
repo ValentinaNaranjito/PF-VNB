@@ -1,0 +1,17 @@
+
+
+.tarjeta img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.texto{
+    width: 100%;
+}
+.tarjeta h4{
+    text-align:left;
+}
+.tarjeta p{
+    text-align: justify;
+}

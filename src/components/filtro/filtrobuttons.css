@@ -1,0 +1,20 @@
+.filtro{
+    background-color:ghostwhite;
+    height: 40px;
+}
+.boton{
+    margin: 5px;
+    
+}
+.filtrobutton{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: black;
+}
+.categoria{
+    font-family: 'Times New Roman', Times, serif; 
+    border-radius: 30px;
+    border-style: solid;
+    border-color: black;
+}
